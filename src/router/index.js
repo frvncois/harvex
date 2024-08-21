@@ -2,7 +2,6 @@ import { createRouter, createWebHistory } from 'vue-router'
 import DashboardView from '../views/DashboardView.vue'
 import MarketplaceView from '../views/MarketplaceView.vue'
 import MessagesView from '../views/MessagesView.vue'
-import SalesView from '../views/SalesView.vue'
 import SettingsView from '../views/SettingsView.vue'
 import ProductView from '../views/ProductView.vue'
 import ListingView from '../views/ListingView.vue'
@@ -28,12 +27,6 @@ const router = createRouter({
       name: 'messages',
       component: MessagesView,
       meta: { title: 'Messages', requiresAuth: true }
-    },
-    {
-      path: '/sales',
-      name: 'sales',
-      component: SalesView,
-      meta: { title: 'Sales', requiresAuth: true }
     },
     {
       path: '/settings',
