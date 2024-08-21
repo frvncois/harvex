@@ -1,0 +1,3 @@
+<template>
+    * SIDEBAR CONTENT *
+</template>

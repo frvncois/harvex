@@ -1,0 +1,363 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Indica",
+        "icon": "/assets/svg/indica.svg"
+      },
+      {
+        "id": 2,
+        "name": "Sativa",
+        "icon": "/assets/svg/sativa.svg"
+      },
+      {
+        "id": 3,
+        "name": "Hybrid",
+        "icon": "/assets/svg/hybrid.svg"
+      },
+      {
+        "id": 4,
+        "name": "Outdoor",
+        "icon": "/assets/svg/outdoor.svg"
+      },
+      {
+        "id": 5,
+        "name": "Indoor",
+        "icon": "/assets/svg/indoor.svg"
+      }
+    ],
+    "products": [
+      {
+        "id": 101,
+        "name": "Blue Dream",
+        "short_description": "A supremely relaxing Indica strain with a soothing effect that gently eases you into a calm euphoria. Perfect for winding down after a long day, its smooth, blueberry-scented smoke invites you to dream blissfully.",
+        "long_description": "Blue Dream is renowned for its calming and sedating properties, making it an exceptional choice for relaxation and stress relief. With a sweet berry aroma reminiscent of its Blueberry parent, Blue Dream delivers swift symptom relief without heavy sedative effects. This makes it a popular daytime medicine for patients treating pain, depression, nausea, and other ailments requiring a high THC strain.",
+        "price": 8.99,
+        "thc_percentage": 18.5,
+        "cbd_percentage": 0.8,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 1,
+        "growth_type_id": 5,
+        "cover": "/assets/images/image-1.jpg"
+      },
+      {
+        "id": 102,
+        "name": "OG Kush",
+        "short_description": "An iconic energizing Sativa strain that sparks creativity and delivers a euphoric, uplifting experience. Known for its stress-relieving qualities, it's perfect for creative brainstorming and social gatherings.",
+        "long_description": "OG Kush is a legendary strain with a name that has recognition even outside of the cannabis world. Despite its fame, its exact origins remain a mystery. Known for its stress-relieving and uplifting effects, OG Kush offers a potent mix of heady euphoria and physical relaxation. It's a great choice for those seeking an emotional boost, coupled with a significant improvement in mood and an increase in energy levels. OG Kush's complex aroma of earthy pine and sour lemon with woody undertones has made it a favorite among connoisseurs and medical patients alike.",
+        "price": 10.25,
+        "thc_percentage": 22.3,
+        "cbd_percentage": 0.5,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 2,
+        "growth_type_id": 4,
+        "cover": "/assets/images/image-2.jpg"
+      },
+      {
+        "id": 103,
+        "name": "Sour Diesel",
+        "short_description": "Embrace the best of both worlds with this invigorating Hybrid strain. Sour Diesel, or Sour D, provides a distinct, fast-acting cerebral high that awakens creativity and delivers energizing effects.",
+        "long_description": " Sour Diesel combines the relaxing effects of an Indica with the energizing effects of a Sativa, offering a balanced experience suitable for various occasions. This strain features a pungent scent that smells like diesel. Its energizing effects make it great for daytime use, providing long-lasting relief for those suffering from depression, pain, and stress. Sour Diesel's reputation as a top choice among medical patients and recreational consumers is well-deserved, thanks to its potent and invigorating mental buzz.",
+        "price": 11.99,
+        "thc_percentage": 19.8,
+        "cbd_percentage": 1.2,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 3,
+        "growth_type_id": 4,
+        "cover": "/assets/images/image-3.jpg"
+      },
+      {
+        "id": 104,
+        "name": "Girl Scout Cookies",
+        "short_description": "A legendary Indica-dominant hybrid with a robust body high that's both euphoric and uplifting. Girl Scout Cookies catapults you to euphoria’s top floor, where full-body relaxation meets a time-bending cerebral space.",
+        "long_description": "Girl Scout Cookies, often abbreviated as GSC, offers an extraordinary deep relaxation, making it perfect for evening use. It's known for its sweet and earthy aromas, Girl Scout Cookies launches you to euphoria's upper echelon, where full-body relaxation meets a cerebral time warp. With a THC level that can reach upwards of 28%, it's no wonder Girl Scout Cookies is a time-tested favorite among cannabis enthusiasts. Its powerful effects are beneficial for treating pain, nausea, and appetite loss.",
+        "price": 9.75,
+        "thc_percentage": 20.2,
+        "cbd_percentage": 0.7,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 1,
+        "growth_type_id": 4,
+        "cover": "/assets/images/image-4.jpg"
+      },
+      {
+        "id": 105,
+        "name": "Granddaddy Purple",
+        "short_description": "A deeply relaxing Sativa strain renowned for its uplifting effects and ability to inspire creativity. Its complex grape and berry aroma, inherited from its Purple Urkle and Big Bud lineage, makes it a favorite for both enjoyment and therapeutic use.",
+        "long_description": "Granddaddy Purple, or GDP, is celebrated for its potent psychoactive effects that are clearly detectable in both mind and body, delivering a fusion of cerebral euphoria and physical relaxation. While your thoughts may float in a dreamy buzz, your body is more likely to find itself fixed in one spot for the duration of GDP's effects. This strain is typically pulled off the shelf for consumers looking to combat pain, stress, insomnia, appetite loss, and muscle spasms. GDP blesses growers with massive yields which are ready for harvest following a 60-day flowering time indoors.",
+        "price": 11.5,
+        "thc_percentage": 23.5,
+        "cbd_percentage": 0.3,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 2,
+        "growth_type_id": 5,
+        "cover": "/assets/images/image-5.jpg"
+      },
+      {
+        "id": 106,
+        "name": "White Widow",
+        "short_description": "A balanced Hybrid strain offering a burst of euphoria and energy, igniting conversation and creativity. Its buds are white with crystal resin, warning of the potent effects to come.",
+        "long_description": "White Widow has graced every Dutch coffee shop menu since its birth in the 1990s. Its buds are white with crystal resin, warning you of the potent effects to come. A powerful burst of euphoria and energy breaks through immediately, stimulating both conversation and creativity. White Widow's genetics have given rise to many other legends like White Russian, White Rhino, and Blue Widow. This strain is especially good for depression, stress, pain, and PTSD. White Widow gets its name from the fact that it is literally blanketed in white crystals.",
+        "price": 10.75,
+        "thc_percentage": 18.7,
+        "cbd_percentage": 0.9,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 3,
+        "growth_type_id": 5,
+        "cover": "/assets/images/image-1.jpg"
+      },
+      {
+        "id": 107,
+        "name": "Northern Lights",
+        "short_description": "One of the most famous Indica strains globally, known for its fast-acting effects that offer muscle relaxation and an uplifting euphoria. It's the perfect end-of-day strain to relieve stress, pain, and insomnia.",
+        "long_description": " Northern Lights stands among the most famous strains of all time, a pure indica cherished for its resinous buds, fast flowering, and resilience during growth. Itself a descendant of indigenous Afghani and Thai landrace strains, Northern Lights has given rise to famous hybrids like Shiva Skunk and Super Silver Haze. Rumor has it that Northern Lights first sprouted near Seattle, Washington, but was propagated out of Holland after 1985 at what is now Sensi Seeds. The crystal-covered buds promise a calming, sleep-inducing euphoria, a perfect way to relax after a long day.",
+        "price": 8.5,
+        "thc_percentage": 17.2,
+        "cbd_percentage": 1.0,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 1,
+        "growth_type_id": 5,
+        "cover": "/assets/images/image-2.jpg"
+      },
+      {
+        "id": 108,
+        "name": "Pineapple Express",
+        "short_description": "A Sativa-dominant hybrid that combines the potent and flavorful forces of parent strains Trainwreck and Hawaiian. The smell is likened to fresh apple and mango, with a taste of pineapple, pine, and cedar.",
+        "long_description": "Pineapple Express is a Sativa-dominant hybrid born of parent strains Trainwreck and Hawaiian. The energetic high is perfect for taking a scenic walk or getting a head start on a productive afternoon. Great for outdoor activities, Pineapple Express is strong, with a long-lasting effect that hits the body hard and fast. These dense, chunky buds taste of pineapple, pine, and cedar. Pineapple Express is now known for its pineapple-like scent with hints of spices and fruits. It's a powerful strain for those looking to stimulate creativity, energy, and, most importantly, a state of utter bliss.",
+        "price": 10.99,
+        "thc_percentage": 21.0,
+        "cbd_percentage": 0.6,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 2,
+        "growth_type_id": 4,
+        "cover": "/assets/images/image-3.jpg"
+      },
+      {
+        "id": 109,
+        "name": "AK-47",
+        "short_description": "AK-47 is a Hybrid strain with a complex blend of flavors and aromas that shoot straight into the cerebral cortex, offering a steady and long-lasting cerebral buzz that keeps you mentally alert and engaged in creative or social activities.",
+        "long_description": "AK-47, despite its intimidating name, delivers a very mellow feeling and can leave one stuck in a state of couch-lock. It also leads to increased creativity. For most users, the strain will be a smooth ride and an excellent strain for alleviating stress and anxiety. The AK-47 strain is a mix of Colombian, Mexican, Thai, and Afghani varieties, bringing together a complex blend of flavors and effects. While the strain's scent is sour and earthy, its sweet floral notes can only be fully realized in the taste.",
+        "price": 9.25,
+        "thc_percentage": 19.4,
+        "cbd_percentage": 1.1,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 3,
+        "growth_type_id": 5,
+        "cover": "/assets/images/image-4.jpg"
+      },
+      {
+        "id": 110,
+        "name": "Chemdawg",
+        "short_description": "Chemdawg has developed quite the name for itself over the years. Between its mysterious origin, ambiguous genetics, and the plethora of successful crosses the strain has produced, Chemdawg has practically secured itself a permanent place in the cannabis hall of fame.",
+        "long_description": "The original source of powerhouse strains like Sour Diesel and OG Kush, Chemdawg is known for its distinct, diesel-like aroma. Pungent and sharp, you’ll be able to smell this hybrid from a mile away. Cannabis newbies be warned: Chemdawg tends to be very potent. Consumers can expect to have a very cerebral experience, coupled with a strong heavy-bodied feeling.",
+        "price": 8.75,
+        "thc_percentage": 18.0,
+        "cbd_percentage": 0.9,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 1,
+        "growth_type_id": 4,
+        "cover": "/assets/images/image-5.jpg"
+      },
+      {
+        "id": 111,
+        "name": "Jack Herer",
+        "short_description": "Jack Herer is a blissful, uplifting Sativa with mild body effects. This famous strain was named after legendary cannabis activist, Jack Herer. Dutch pharmacies recognized this classic strain as a “medical-grade” strain due to its potent effects.",
+        "long_description": "Jack Herer has a unique loamy smell and taste with hints of pine and trees. The strain is effective for patients with mental or neurological disorders, including bipolar disorder, anxiety, migraines, PTSD, and ADHD. Dry mouth and red eyes are common, along with occasional dizziness and paranoia. Jack Herer’s well-rounded high makes it a great strain for cannabis newcomers. It’s uniquely social in its ability to facilitate conversation while allowing users to maintain a semblance of awareness.",
+        "price": 10.5,
+        "thc_percentage": 21.5,
+        "cbd_percentage": 0.4,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 2,
+        "growth_type_id": 5,
+        "cover": "/assets/images/image-1.jpg"
+      },
+      {
+        "id": 112,
+        "name": "Gorilla Glue #4",
+        "short_description": "Gorilla Glue #4 is a potent Hybrid strain that delivers heavy-handed euphoria and relaxation, leaving you feeling “glued” to the couch. Its chunky, resin-covered buds fill the room with pungent earthy and sour aromas inherited from its parent strains.",
+        "long_description": "Also known as GG4, Gorilla Glue #4 won 1st place in the 2014 Los Angeles Cannabis Cup. This chunky, conic, crystal-covered strain flowers in 56 to 60 days. The high produced is intensely euphoric, combined with a strong body buzz that will leave users feeling happy and uplifted, but also quite sedated and couch-locked. This makes it ideal for treating pain and inflammation as well as providing relief for chronic pain and insomnia.",
+        "price": 9.99,
+        "thc_percentage": 20.1,
+        "cbd_percentage": 1.2,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 3,
+        "growth_type_id": 5,
+        "cover": "/assets/images/image-2.jpg"
+      },
+      {
+        "id": 113,
+        "name": "Purple Haze",
+        "short_description": "Purple Haze is a dreamy Sativa strain named after a Jimi Hendrix classic. Its lively action ignites creativity and provides an uplifting, euphoric high, perfect for anyone looking to unleash their imaginative muse.",
+        "long_description": "Purple Haze is all about cerebral stimulation and a sense of blissful freedom. With a sweet berry aroma reminiscent of its Haze ancestor, this strain offers a smooth and enjoyable smoking experience. Users often report feeling a burst of energy that encourages creativity and easygoing happiness. With its lineage coming from Thai and Haze strains, you can expect a touch of sharp spice that makes the smoking experience all the more exhilarating.",
+        "price": 8.99,
+        "thc_percentage": 17.8,
+        "cbd_percentage": 0.7,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 1,
+        "growth_type_id": 4,
+        "cover": "/assets/images/image-3.jpg"
+      },
+      {
+        "id": 114,
+        "name": "Skywalker OG",
+        "short_description": "Skywalker OG is a potent Indica-dominant hybrid that may just take you to a galaxy far, far away. This plant is a cross between Skywalker and OG Kush and has the strong aroma characteristic to kush strains that includes a spicy herbal scent tinged with jet fuel.",
+        "long_description": "This strain makes relaxation your only mission, and some users report strong body effects that include mild tingling and numbness. If pain and physical limitations are the issue, Skywalker OG is here to rescue you. The galaxy also holds a sativa dominant variety of Skywalker that is also often referred to as Skywalker OG or Sativa OG.",
+        "price": 10.75,
+        "thc_percentage": 20.8,
+        "cbd_percentage": 0.5,
+        "therpenes_percentage": 0.8,
+        "certification": "GPP",
+        "highest_terpenes": "Myrcene, Caryophyllene, Limonene",
+        "aromas": "Sweet, Berry, Blueberry",
+        "category_id": 2,
+        "growth_type_id": 5,
+        "cover": "/assets/images/image-4.jpg"
+      }
+    ],
+    "messages": [
+      {
+        "id": 200,
+        "status": "accepted",
+        "offer": "accepted",
+        "product_id": 110,
+        "discussion_id": "200-000",
+        "discussion": [
+          {
+            "message": "HARVEX",
+            "sent_on": "12/07/2024",
+            "reply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sent_on_reply": "04/02/2024"
+          },
+          {
+            "message": "CURRENT USERNAME",
+            "sent_on": "14/07/2024",
+            "reply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sent_on_reply": "16/01/2024"
+          }
+        ]
+      },
+      {
+        "id": 201,
+        "status": "ongoing",
+        "offer": "ongoing",
+        "product_id": 104,
+        "discussion_id": "201-000",
+        "discussion": [
+          {
+            "message": "HARVEX",
+            "sent_on": "12/07/2024",
+            "reply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sent_on_reply": "22/01/2024"
+          },
+          {
+            "message": "CURRENT USERNAME",
+            "sent_on": "14/07/2024",
+            "reply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sent_on_reply": "10/01/2024"
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "status": "accepted",
+        "offer": "accepted",
+        "product_id": 103,
+        "discussion_id": "200-000",
+        "discussion": [
+          {
+            "message": "HARVEX",
+            "sent_on": "12/07/2024",
+            "reply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sent_on_reply": "04/02/2024"
+          },
+          {
+            "message": "CURRENT USERNAME",
+            "sent_on": "14/07/2024",
+            "reply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sent_on_reply": "16/01/2024"
+          }
+        ]
+      },
+      {
+        "id": 203,
+        "status": "refused",
+        "offer": "refused",
+        "product_id": 102,
+        "discussion_id": "200-000",
+        "discussion": [
+          {
+            "message": "HARVEX",
+            "sent_on": "12/07/2024",
+            "reply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sent_on_reply": "04/02/2024"
+          },
+          {
+            "message": "CURRENT USERNAME",
+            "sent_on": "14/07/2024",
+            "reply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sent_on_reply": "16/01/2024"
+          }
+        ]
+      },
+      {
+        "id": 204,
+        "status": "accepted",
+        "offer": "accepted",
+        "product_id": 108,
+        "discussion_id": "200-000",
+        "discussion": [
+          {
+            "message": "HARVEX",
+            "sent_on": "12/07/2024",
+            "reply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sent_on_reply": "04/02/2024"
+          },
+          {
+            "message": "CURRENT USERNAME",
+            "sent_on": "14/07/2024",
+            "reply": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sent_on_reply": "16/01/2024"
+          }
+        ]
+      }
+    ]
+  }
+  
